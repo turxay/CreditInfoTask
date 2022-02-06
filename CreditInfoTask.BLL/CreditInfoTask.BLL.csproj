@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CreditInfoTask.DAL\CreditInfoTask.DAL.csproj" />
+    <ProjectReference Include="..\CreditInfoTask\CreditInfoTask.Domain\CreditInfoTask.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

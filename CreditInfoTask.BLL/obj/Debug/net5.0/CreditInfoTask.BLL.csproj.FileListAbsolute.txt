@@ -1,0 +1,17 @@
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.BLL.deps.json
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.BLL.dll
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\ref\CreditInfoTask.BLL.dll
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.BLL.pdb
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.DAL.dll
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.Domain.dll
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.DAL.pdb
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\bin\Debug\net5.0\CreditInfoTask.Domain.pdb
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.csproj.AssemblyReference.cache
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.AssemblyInfoInputs.cache
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.AssemblyInfo.cs
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.csproj.CopyComplete
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.dll
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\ref\CreditInfoTask.BLL.dll
+C:\Users\user\Dropbox\PC\Desktop\CreditInfoTask\CreditInfoTask.BLL\obj\Debug\net5.0\CreditInfoTask.BLL.pdb

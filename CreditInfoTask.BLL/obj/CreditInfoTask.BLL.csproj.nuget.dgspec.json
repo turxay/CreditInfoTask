@@ -32,6 +32,149 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask.DAL\\CreditInfoTask.DAL.csproj": {
+                "projectPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask.DAL\\CreditInfoTask.DAL.csproj"
+              },
+              "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask.DAL\\CreditInfoTask.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask.DAL\\CreditInfoTask.DAL.csproj",
+        "projectName": "CreditInfoTask.DAL",
+        "projectPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask.DAL\\CreditInfoTask.DAL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj",
+        "projectName": "CreditInfoTask.Domain",
+        "projectPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\CreditInfoTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Dropbox\\PC\\Desktop\\CreditInfoTask\\CreditInfoTask\\CreditInfoTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
